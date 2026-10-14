@@ -1,0 +1,23 @@
+{
+  "name": "campus-navigator",
+  "version": "1.0.0",
+  "description": "Campus Navigator — Shortest Path & Accessible Route Finder using Dijkstra's Algorithm",
+  "scripts": {
+    "start": "npm --prefix backend start",
+    "backend": "npm --prefix backend dev",
+    "frontend": "npm --prefix frontend dev",
+    "build:frontend": "npm --prefix frontend build",
+    "test:backend": "npm --prefix backend test"
+  },
+  "keywords": [
+    "campus-navigator",
+    "dijkstra",
+    "shortest-path",
+    "leaflet",
+    "react",
+    "express",
+    "accessibility"
+  ],
+  "author": "Campus Navigator Team",
+  "license": "MIT"
+}
